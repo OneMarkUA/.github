@@ -1,1 +1,3 @@
-# .github
+# OneMark Organisation
+
+Digital School Diary.
